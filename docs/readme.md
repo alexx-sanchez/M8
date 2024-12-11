@@ -10,6 +10,7 @@
    mkdir -p proyecto-patrones/{docs,scripts,images,temp}
    touch proyecto-patrones/{docs/{manual.txt,guia.md,readme.txt},scripts/{app.js,utils.py,config.js},images/{logo.png,icon.jpg,banner.gif},temp/{pruebas.log,debug.txt,draft.md}}
    ```
+   ![CAPTURA DE PANTALLA](img.zip/0-1.png)
 
 2. Verifica que la estructura es la siguiente:
 
