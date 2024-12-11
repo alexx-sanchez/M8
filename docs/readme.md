@@ -10,7 +10,7 @@
    mkdir -p proyecto-patrones/{docs,scripts,images,temp}
    touch proyecto-patrones/{docs/{manual.txt,guia.md,readme.txt},scripts/{app.js,utils.py,config.js},images/{logo.png,icon.jpg,banner.gif},temp/{pruebas.log,debug.txt,draft.md}}
    ```
-   ![CAPTURA DE PANTALLA](/capturas/0-1.png)
+![CAPTURA DE PANTALLA](/capturas/0-1.png)
 
 2. Verifica que la estructura es la siguiente:
 
@@ -33,9 +33,10 @@
        ├── debug.txt
        ├── draft.md
    ```
-
+![CAPTURA DE PANTALLA](/capturas/0-2.png)
 3. Inicializa el repositorio y haz un commit inicial.
-
+![CAPTURA DE PANTALLA](/capturas/0-3.png)
+![CAPTURA DE PANTALLA](/capturas/0-3-1.png)
 ---
 
 ### **COMENZAMOS**
@@ -45,6 +46,7 @@
 1. Añade  **solo** los archivos `.txt` que están en la carpeta `docs/` y muestra el estado.
 
 2. Haz un commit.
+![CAPTURA DE PANTALLA](/capturas/1.png)
 ---
 
 #### **2. Trabaja con subdirectorios y extensiones**
@@ -52,6 +54,7 @@
 1. Añade **todos los archivos `.js`** del directorio `scripts/` pero **excluye `config.js`** y muestra el estado.
 
 2. Haz un commit con los cambios.
+![CAPTURA DE PANTALLA](/capturas/2.png)
 ---
 
 #### **3. Máscaras en niveles**
@@ -61,8 +64,10 @@
 2. Confirma que los archivos `.png` y `.jpg` están en el área de preparación y muestra el estado.
 
 3. Haz un commit.
+![CAPTURA DE PANTALLA](/capturas/3.png)
 ---
 
 #### **4. Sube el repositorio Git Local al Remoto**
 
 1. Ya sabes como hacerlo, si no te acuerdas tienes aquí la [guía de comandos](https://github.com/VelezBeatriz/ITB-M08-DAW1/blob/main/README.md)
+![CAPTURA DE PANTALLA](/capturas/4.png)
